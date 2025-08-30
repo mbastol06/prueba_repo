@@ -6,3 +6,5 @@
  
  
  library(readxl)
+ 
+ d <- c(a, b, c, d)
